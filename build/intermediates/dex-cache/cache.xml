@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_f566586499159d43025fe59c9ba6ba6a6991b910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_010bb983b59a6e2654e815a84547d8265f44444b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.rm/freedrawview/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd205e2b7d0c8d292b31cd8348c1d1355df740b9">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.rm-freedrawview-1.0.2_06c4aa5a50b438437bfb670a513c1b9ac061073a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_dd785424dc0b8802cf191c263df98442e7fa7e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_78ea23bf26c00a24d824b154abdfb80eb15f68fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_c801369d9f5c8be899e8d8ddfbf15df601a06d16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_fc26c1fce5551e96c96182ffdf3e4a35139aab5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f914a0b8e62346c96e3c5de3288b55b16d73a9f">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b05f94c7d2e77ba3c2c4749084356cb328bb5b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_9e389b6a372d51b42bbde56beb322b0cce8f85a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_691a5d635d7c4a4596bea696e32a57475b03af99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e447f30f90ae478092507aa842e4eaa61fa9033">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c9f453201de5f69acdd61182c931769afed5d929/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_e9f01e27ff43b02f221ca6b8a3dcafadda6eb1e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_2bfc87fa71f76f9ead1a2bc9adf299e937617672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_f4eb38f6af4b1d7114dc0ab77e41fa910a251e58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_aaab67dba713a7752bfe16c9370c298d1ced8cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_3868e0789a9111e71ffc6a9c8b6a973d51341a4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_780b91e56fc05da446a0b3eb19a1241409cd73e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_a0e5424a0100efc70c8e93db07b38a6fb25d25e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/exploded-aar/com.byox.drawview/drawview/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2dc2cb877cd4fe0a30e93a1b14f2d12d6cb69c8b">
+        <dex dex="/Users/shashankmahajan/Desktop/newFeatures/myproject/DrawOverPicture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.byox.drawview-drawview-1.0.5_2b50641d59aae465014668d224b3f214f722e314/classes.dex" />
+    </item>
+
+</items>

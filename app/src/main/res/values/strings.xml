@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrawOverPicture</string>
+
+    <string name="stroke_width">Stroke width: %1$d</string>
+    <string name="opacity">Opacity: %1$d</string>
+    <string name="font_size">Font size: %1$d</string>
+
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+    <string name="clear">clear</string>
+</resources>
